@@ -19,7 +19,7 @@
 
 - 🔥 Building scalable web applications with **Spring Boot + React**
 - 🧩 Designing **microservice-ready architectures**
-- 💳 Working on **payment systems & loyalty platforms (StampV)**
+- 💳 Working on **payment systems & loyalty platforms**
 - 🧠 Integrating **AI into real-world products**
 
 ---
